@@ -10,7 +10,7 @@ function ConditionalWeather() {
     <div>
       <h2>Weather Report</h2>
       <p>
-        Temerature: 
+        Temperature: 
         <span style={{ color: tempColor }}> {Weather.temperature}</span>
       </p>
       <p>Conditions: {Weather.condition}</p>
